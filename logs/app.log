@@ -1,0 +1,3 @@
+11:59:13.658 [main] INFO  webdriver.java.tests.MyFirstTestWithLogs - Im connecting to http://taasvn.kainos.com:8080/jpetstore/shop/index.shtml
+11:59:16.383 [main] INFO  webdriver.java.tests.MyFirstTestWithLogs - User created
+11:59:16.760 [main] INFO  webdriver.java.tests.MyFirstTestWithLogs - Skonczylem
